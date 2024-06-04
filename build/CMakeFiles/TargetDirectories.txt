@@ -1,0 +1,3 @@
+/Users/ilyabelov/PycharmProjects/Balls/build/CMakeFiles/ball.dir
+/Users/ilyabelov/PycharmProjects/Balls/build/CMakeFiles/edit_cache.dir
+/Users/ilyabelov/PycharmProjects/Balls/build/CMakeFiles/rebuild_cache.dir
